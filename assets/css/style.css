@@ -1459,7 +1459,7 @@ hr {
         /* дальше делаем навигацию бургер меню */
         position: absolute;
         width: 100%;
-        top: 99%;
+        top: 100%;
         left: 0;
         background-color: #eb8b8d;
     }
