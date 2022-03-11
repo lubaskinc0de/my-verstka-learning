@@ -135,7 +135,7 @@ hr {
     background-color: #eb8b8d;
     position: fixed;
     /* фиксируем верхнюю шапку на верхе страницы */
-    top: 0;
+    top: -1px;
     right: 0;
     left: 0;
     transform: translate3d(0, 0, 0);
